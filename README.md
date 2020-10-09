@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![Jonatan's github stats](https://github-readme-stats.vercel.app/api?username=jehernandezr&count_private=true&include_all_commits)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jehernandezr&layout=compact&langs_count=10&include_all_commits=true&exclude_repo=Empleos_Back)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jehernandezr&layout=compact&langs_count=10&include_all_commits=true&exclude_repo=Empleos_Back,Alohandes)
