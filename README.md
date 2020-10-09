@@ -17,9 +17,4 @@ Here are some ideas to get you started:
 
 ![Jonatan's github stats](https://github-readme-stats.vercel.app/api?username=jehernandezr&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jehernandezr&layout=compact&langs_count=8)](https://github.com/jehernandezr/github-readme-stats)
-<a href="https://github.com/jehernandezr/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jehernandezr&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jehernandezr&repo=convoychat" />
-</a>
+
