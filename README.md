@@ -7,7 +7,7 @@ I'm a **Backend Squad Lead** and Software Developer from Colombia 🇨🇴, pass
 - 🛠️ Published a VS Code extension: [TypeORM Log Transformer](https://marketplace.visualstudio.com/items?itemName=jehernandezr.typeorm-log-transformer)
 - 🌱 Exploring **Artificial Intelligence** and machine learning
 - 💬 Ask me about **Node.js, TypeScript, backend architecture, or TypeORM**
-- 📫 Reach me via my [personal site](https://jehernandezr.github.io/PersonalSite/)
+- 📫 Reach me via my [personal site](https://jonatanhr.com)
 
 ---
 
@@ -26,8 +26,13 @@ I'm a **Backend Squad Lead** and Software Developer from Colombia 🇨🇴, pass
 
 ### 📊 GitHub Stats
 
-![Jonatan's github stats](https://github-readme-stats.vercel.app/api?username=jehernandezr&count_private=true&show_icons=true&include_all_commits=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jehernandezr&layout=compact&include_all_commits=true)
+<p>
+  <img src="./profile-summary-card-output/default/0-profile-details.svg" alt="Profile details" width="100%" />
+</p>
+<p>
+  <img src="./profile-summary-card-output/default/3-stats.svg" alt="GitHub stats" width="49%" />
+  <img src="./profile-summary-card-output/default/1-repos-per-language.svg" alt="Repos per language" width="49%" />
+</p>
 
 ---
 
